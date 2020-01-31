@@ -1,2 +1,2 @@
 # Analyse---Functions
-## Welcome to the Analyse Functions projrct.
+## Welcome to the Analyse Functions project! get your hands dirty with Code.
